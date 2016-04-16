@@ -52,7 +52,4 @@ public class euler_3 {
 
             System.out.println("The largest prime factor is " + factor_list.get(factor_list.size()-1));
         }
-
-
-
     }
